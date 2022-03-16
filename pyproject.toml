@@ -2,7 +2,7 @@
 name = "defect_location_detection"
 version = "0.1.0"
 description = ""
-authors = ["DarkSide142 <roma.scherbakov.1997@mail.ru>"]
+authors = ["r-shcherbakov"]
 
 [tool.poetry.dependencies]
 python = "^3.8"

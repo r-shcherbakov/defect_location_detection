@@ -1,6 +1,6 @@
 ### Workflow description:
 
-In the following notebook you can find the detection of defect location of metal pipes with machine learning approaches. It is available 245 measurements (magnetic flaw detection) of metal pipes with different defect types (for example - corrosion, scratch, etc).
+In the following repository you can find the detection of defect location of metal pipes with machine learning approaches. It is available 245 measurements (magnetic flaw detection) of metal pipes with different defect types (for example - corrosion, scratch, etc).
 
 For each measurements the following info is available:
 
