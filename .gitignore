@@ -1,0 +1,8 @@
+catboost_info
+data
+defect_location_detection
+tests
+.venv
+logs.log
+mlruns
+.ipynb_checkpoints
